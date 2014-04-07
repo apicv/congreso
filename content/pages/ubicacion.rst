@@ -1,8 +1,8 @@
 Ubicación
-=========
+#########
 
 :summary: Información sobre el lugar de celebración
-:save_as:ubicacion.html
+:save_as: ubicacion.html
 
 Dirección, teléfonos, transportes, predicción meteorológica, alrededores (aparcamiento, visitas, etc.)
 

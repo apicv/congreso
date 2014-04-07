@@ -24,6 +24,7 @@ RELATIVE_URLS = True
 MENUITEMS = (('Congreso', 'congreso.html'),
              ('Programa', 'programa.html'),
              (u'Inscripción', 'inscripcion.html'),
+             (u'Ubicación', 'ubicacion.html'),
              ('2013', 'http://profesoresinformatica.es/'),
              )
 
