@@ -1,7 +1,7 @@
 Acerca de
 #########
 
-:date: 2014-04-03
 :summary: Acerca del Congreso Nacional de Profesores de Informática
+:save_as: congreso.html
 
 Información general del Congreso
