@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'APICV'
-SITENAME = u'2º Congreso PI'
+SITENAME = u'#ConPI14'
 SITEURL = 'http://congreso.profesoresinformatica.es'
 TIMEZONE = 'Europe/Madrid'
 DEFAULT_LANG = u'es'
@@ -23,7 +23,9 @@ RELATIVE_URLS = True
  
 MENUITEMS = (('Congreso', 'congreso.html'),
              ('Programa', 'programa.html'),
-             (u'Inscripción', 'inscripcion.html'),)
+             (u'Inscripción', 'inscripcion.html'),
+             ('2013', 'http://profesoresinformatica.es/'),
+             )
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
