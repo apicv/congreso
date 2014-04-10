@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'APICV'
-SITENAME = u'#ConPI14'
+SITENAME = u'#CoNPI14'
 SITEURL = 'http://congreso.profesoresinformatica.es'
 TIMEZONE = 'Europe/Madrid'
 DEFAULT_LANG = u'es'
