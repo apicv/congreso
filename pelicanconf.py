@@ -25,6 +25,8 @@ MENUITEMS = (('Congreso', 'congreso.html'),
              ('Programa', 'programa.html'),
              (u'Inscripción', 'inscripcion.html'),
              (u'Ubicación', 'ubicacion.html'),
+             ('Colaboradores', 'colaboradores.html'),
+             ('Contacto', 'contacto.html'),
              ('2013', 'http://profesoresinformatica.es/'),
              )
 
@@ -53,7 +55,7 @@ THEME = "themes/bootstrap3"
 BOOTSTRAP_THEME = "flatly"
 
 # static paths will be copied under the same name
-STATIC_PATHS = ["static", 'extra/CNAME']
+STATIC_PATHS = ["static", 'extra/CNAME', 'images']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # plugin configuration
