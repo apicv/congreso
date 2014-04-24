@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Saniretro';
+    src: url('saniretro.eot');
+    src: url('saniretro.eot?#iefix') format('embedded-opentype'),
+         url('saniretro.woff') format('woff'),
+         url('saniretro.ttf') format('truetype'),
+         url('saniretro.svg#saniretroregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
