@@ -11,13 +11,12 @@ function slabTextHeadlines() {
 
 WebFontConfig = {
   custom: {
-    families: ['Hagin Caps Medium'],
+    families: ['Saniretro'],
     urls: [
-      '../../font/hagin-caps-medium-webfont.eot',
-      '../../font/hagin-caps-medium-webfont.svg',
-      '../../font/hagin-caps-medium-webfont.ttf',
-      '../../font/hagin-caps-medium-webfont.woff',
-      '../../css/typography.css'
+      '../css/font/saniretro.eot',
+      '../css/font/saniretro.svg',
+      '../css/font/saniretro.ttf',
+      '../css/font/saniretro.woff'
       ]
   },
   active: slabTextHeadlines,
