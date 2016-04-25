@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="ie ie6 lte9 lte8 lte7" lang="es-ES">
+<![endif]-->
+<!--[if IE 7]>
+<html class="ie ie7 lte9 lte8 lte7" lang="es-ES">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 lte9 lte8" lang="es-ES">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie ie9" lang="es-ES"> 
+<![endif]-->
+<!--[if gt IE 9]>  <html lang="es-ES"> <![endif]-->
+<!--[if !IE]><!--> 
+<html lang="es-ES">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	
+	<title>Mesa 2 | I Congreso Nacional de Profesores de Informática</title>
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="xmlrpc.php" />
+	
+	<!-- IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="http://profesoresinformatica.es/wp-content/themes/response/inc/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<link rel="alternate" type="application/rss+xml" title="I Congreso Nacional de Profesores de Informática &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="I Congreso Nacional de Profesores de Informática &raquo; RSS de los comentarios" href="http://profesoresinformatica.es/comments/feed/" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-39041094-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="I Congreso Nacional de Profesores de Informática &raquo; Mesa 2 RSS de los comentarios" href="materiales-mesa-2/feed/index.html" />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css'  href='wp-content/themes/response/cyberchimps/lib/bootstrap/css/bootstrap.min.css?ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-responsive-style-css'  href='wp-content/themes/response/cyberchimps/lib/bootstrap/css/bootstrap-responsive.min.css?ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyberchimps_responsive-css'  href='wp-content/themes/response/cyberchimps/lib/bootstrap/css/cyberchimps-responsive.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='core-style-css'  href='wp-content/themes/response/cyberchimps/lib/css/core.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='wp-content/themes/response/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elements_style-css'  href='wp-content/themes/response/elements/lib/css/elements.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slimbox2-css'  href='wp-content/plugins/wp-slimbox2/css/slimbox2.css?ver=1.1' type='text/css' media='screen' />
+<script type='text/javascript' src='http://profesoresinformatica.es/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/response/cyberchimps/lib/js/jquery.slimbox.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/response/cyberchimps/lib/js/jquery.jcarousel.min.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/response/cyberchimps/lib/js/custom.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/response/cyberchimps/lib/js/jquery.mobile.custom.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='wp-content/themes/response/cyberchimps/lib/js/swipe-call.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://profesoresinformatica.es/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='wp-content/themes/response/elements/lib/js/elements.js?ver=3.5.1'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-slimbox2/javascript/slimbox2.js?ver=2.04'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slimbox2_options = {"autoload":"1","overlayColor":"#000000","loop":"","overlayOpacity":"0.8","overlayFadeDuration":"400","resizeDuration":"400","resizeEasing":"swing","initialWidth":"250","initialHeight":"250","imageFadeDuration":"400","captionAnimationDuration":"400","caption":"el.title || el.firstChild.alt || el.firstChild.title || el.href || el.href","url":"1","selector":"div.entry-content, div.gallery, div.entry, div.post, div#page, body","counterText":"Imagen {x} de {y}","closeKeys":"27,88,67","previousKeys":"65,37","nextKeys":"80,39","prev":"http:\/\/profesoresinformatica.es\/wp-content\/plugins\/wp-slimbox2\/images\/es_ES\/prevlabel-es.gif","next":"http:\/\/profesoresinformatica.es\/wp-content\/plugins\/wp-slimbox2\/images\/es_ES\/nextlabel-es.gif","close":"http:\/\/profesoresinformatica.es\/wp-content\/plugins\/wp-slimbox2\/images\/es_ES\/closelabel-es.gif","picasaweb":"","flickr":"","mobile":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-slimbox2/javascript/slimbox2_autoload.js?ver=1.0.4b'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://profesoresinformatica.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+<style type="text/css">.ie8 .container {max-width: 1020px;width:auto;}</style>
+<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[512,527] -->
+<link rel="canonical" href="materiales" />
+<!-- /all in one seo pack -->
+<style type="text/css" id="custom-background-css">
+	body.custom-background {  }
+</style>
+  
+  <style type="text/css" media="all">
+	  body {
+    	      	font-size: 14px;     
+    	      	font-family: Arial, Helvetica, sans-serif;     
+    	      	font-weight: normal;     
+    	  }
+        .container {
+        max-width: 1020px;
+      }
+    </style>
+</head>
+
+<body class="page page-id-726 page-template-default">
+
+<div class="container">
+	
+
+<div id="wrapper" class="container-fluid">	
+	
+		<header id="cc-header" class="row-fluid">
+		<div class="span7">
+				
+	<hgroup>
+		<h1 class="site-title"><a href="index.html" title="I Congreso Nacional de Profesores de Informática" rel="home">I Congreso Nacional de Profesores de Informática</a></h1>
+	</hgroup>
+		</div>	
+	
+		<div id="register" class="span5">
+				
+	<div id="social">
+		<div class="icons">
+			<a href="https://twitter.com/ApiMadrid" target="_blank"><img src="wp-content/themes/response/cyberchimps/lib/images/social/default/twitter.png" alt="Twitter" /></a>		</div>
+	</div>
+	
+		</div>
+	</header>
+	
+	
+	<nav id="navigation" class="row-fluid" role="navigation">
+      <div class="main-navigation navbar">
+        <div class="navbar-inner">
+        	<div class="container">
+            					<div class="nav-collapse collapse">
+                      		<div class="menu-principal-container"><ul id="menu-principal" class="nav"><li id="menu-item-79" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-79"><a href="index.html" >Inicio</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="el-congreso/index.html" >El Congreso</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="ponentes/index.html" >Ponentes</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="programa/index.html" >Programa</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="localizacion/index.html" >Localización</a></li>
+<li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="materiales-del-congreso/index.html" >Mesa 1</a></li>
+<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-726 current_page_item menu-item-737 active"><a href="materiales" >Mesa 2</a></li>
+<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="materiales-mesa-3/index.html" >Mesa 3</a></li>
+<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="imagenes/index.html" >Imágenes</a></li>
+<li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="hablando-del-i-congreso-nacional-de-profesores-de-informatica-en-rne-uned/index.html" >Radio</a></li>
+</ul></div>			
+			      			</div><!-- collapse -->
+			
+            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+                </div><!-- container -->
+        </div><!-- .navbar-inner .row-fluid -->
+      </div><!-- main-navigation navbar -->
+	</nav><!-- #navigation -->
+	
+	
+
+<div id="container" class="row-fluid">
+	
+		
+	<div id="content" class=" span9 content-sidebar-right">
+		
+				
+		
+			
+<article id="post-726" class="post-726 page type-page status-publish hentry">
+	
+	<header class="entry-header">
+		
+				<h2 class="entry-title">
+			Mesa 2		</h2>
+	
+			</header><!-- .entry-header -->
+  
+			<div class="entry-summary">
+						<h1><em><strong>Aproximación a la FP Dual a través de la experiencia en Madrid</strong></em></h1>
+<p>Coordina: <strong><em>Alba Moreno</em></strong></p>
+<p>Descargar material de la ponencia</p>
+<p><em><strong>Amadeo Mora</strong></em>:</p>
+<p><a href="wp-content/uploads/profesoresinformatica.es/2013/04/2-ponencia-Amadeo-Mora-IESClaraDelRey_ICongresoInformatica_Web.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://profesoresinformatica.es/wp-content/uploads/profesoresinformatica.es/2013/04/2-ponencia-Amadeo-Mora-IESClaraDelRey_ICongresoInformatica_Web.pdf']);">Proyecto experimental de formación Dual en la Comunidad de Madrid. IES Clara del Rey.</a></p>
+<p><a href="wp-content/uploads/profesoresinformatica.es/2013/04/1-Extracto-de-contenido-ponencia-FP-Dual.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://profesoresinformatica.es/wp-content/uploads/profesoresinformatica.es/2013/04/1-Extracto-de-contenido-ponencia-FP-Dual.pdf']);">Extracto de contenido ponencia FP Dual</a></p>
+<p>&nbsp;</p>
+<p><em><strong>Conclusiones de la mesa:</strong></em></p>
+<p><em><a href="wp-content/uploads/profesoresinformatica.es/2013/04/3-Conclusiones-ponencia-FP-Dual.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://profesoresinformatica.es/wp-content/uploads/profesoresinformatica.es/2013/04/3-Conclusiones-ponencia-FP-Dual.pdf']);">Conclusiones ponencia FP Dual</a></em></p>
+		</div><!-- .entry-summary -->
+	
+	
+	<footer class="entry-meta">
+		    
+					<span class="comments-link"><a href="materiales#respond" title="Comentarios en Mesa 2"></a></span>
+      <span class="sep">  </span>
+    		
+				
+	</footer><!-- #entry-meta -->
+	
+</article><!-- #post-726 -->
+			
+
+	<div id="comments" class="comments-area">
+
+	
+	
+	
+									<div id="respond">
+				<h3 id="reply-title">Deja tu comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="materiales#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://profesoresinformatica.es/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Tu dirección de correo electrónico no será publicada. Los campos necesarios están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo electrónico <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Web</label><input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comentario</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Puedes usar las siguientes etiquetas y atributos <abbr title="HyperText Markup Language">HTML</abbr>:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='726' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+			        <script type="text/javascript">
+            jQuery(document).ready(function () {
+                jQuery('#commentform').submit(function () {
+                    _gaq.push(
+                            ['_setAccount', 'UA-39041094-1'],
+                            ['_trackEvent', 'comment', 'submit']
+                    );
+                });
+            });
+        </script>
+					
+</div><!-- #comments .comments-area -->
+			
+				
+	</div><!-- #content -->
+	
+	
+<div id="secondary" class="widget-area span3">
+	
+		
+	<div id="sidebar">
+	<aside id="text-2" class="widget-container widget_text"><h3 class="widget-title">Twitter</h3>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/ApiMadrid" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);" data-widget-id="311426334389837824">Tweets por @ApiMadrid</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</aside>	</div><!-- #sidebar -->
+	
+		
+</div><!-- #secondary .widget-area .span3 -->		
+</div><!-- #container .row-fluid-->
+
+
+
+<div id="footer-widgets" class="row-fluid">
+  <div id="footer-widget-container" class="span12">
+  <div class="row-fluid">
+    <aside id="tag_cloud-2" class="widget-container span3 widget_tag_cloud"><h3 class="widget-title">Nube conceptual</h3><div class="tagcloud"><a href='tag/api-madrid/index.html' class='tag-link-9' title='1 tema' style='font-size: 8pt;'>Api Madrid</a>
+<a href='tag/congreso/index.html' class='tag-link-5' title='1 tema' style='font-size: 8pt;'>congreso</a>
+<a href='tag/informatica/index.html' class='tag-link-7' title='1 tema' style='font-size: 8pt;'>informática</a>
+<a href='tag/nacional/index.html' class='tag-link-8' title='1 tema' style='font-size: 8pt;'>nacional</a>
+<a href='tag/pnapi/index.html' class='tag-link-10' title='1 tema' style='font-size: 8pt;'>PNAPI</a>
+<a href='tag/profesores/index.html' class='tag-link-6' title='1 tema' style='font-size: 8pt;'>profesores</a>
+<a href='tag/profesores-de-secundaria/index.html' class='tag-link-12' title='1 tema' style='font-size: 8pt;'>Profesores de Secundaria</a>
+<a href='tag/profesores-tecnicos/index.html' class='tag-link-11' title='1 tema' style='font-size: 8pt;'>Profesores Técnicos</a></div>
+</aside>    </div><!-- .row-fluid -->
+  </div><!-- #footer-widget-container -->
+</div><!-- #footer-widgets .row-fluid  -->
+
+
+	
+
+
+<footer class="site-footer row-fluid">
+	
+		<div class="span6">
+		<div id="credit">
+						<a href="http://cyberchimps.com/" target="_blank"><img src="wp-content/themes/response/cyberchimps/lib/images/achimps.png" alt="CyberChimps" /></a>
+					</div>
+	</div>
+	<div class="span6"><div id="copyright">© I Congreso Nacional de Profesores de Informática</div></div>	
+</footer><!-- .site-footer .row-fluid -->
+
+
+</div><!-- #wrapper .container-fluid -->
+
+
+</div><!-- container -->
+
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.45.0-2013.10.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/profesoresinformatica.es\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.4'></script>
+<script type='text/javascript' src='wp-content/themes/response/cyberchimps/lib/bootstrap/js/bootstrap.min.js?ver=2.0.4'></script>
+
+</body>
+</html>
