@@ -76,7 +76,7 @@ var slimbox2_options = {"autoload":"1","overlayColor":"#000000","loop":"","overl
 <meta name="generator" content="WordPress 3.5.1" />
 <style type="text/css">.ie8 .container {max-width: 1020px;width:auto;}</style>
 <!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[512,527] -->
-<link rel="canonical" href="materiales" />
+<link rel="canonical" href="materiales-mesa-2/index.html" />
 <!-- /all in one seo pack -->
 <style type="text/css" id="custom-background-css">
 	body.custom-background {  }
@@ -131,7 +131,7 @@ var slimbox2_options = {"autoload":"1","overlayColor":"#000000","loop":"","overl
 <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="programa/index.html" >Programa</a></li>
 <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="localizacion/index.html" >Localización</a></li>
 <li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="materiales-del-congreso/index.html" >Mesa 1</a></li>
-<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-726 current_page_item menu-item-737 active"><a href="materiales" >Mesa 2</a></li>
+<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-726 current_page_item menu-item-737 active"><a href="materiales-mesa-2/index.html" >Mesa 2</a></li>
 <li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="materiales-mesa-3/index.html" >Mesa 3</a></li>
 <li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="imagenes/index.html" >Imágenes</a></li>
 <li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="hablando-del-i-congreso-nacional-de-profesores-de-informatica-en-rne-uned/index.html" >Radio</a></li>
