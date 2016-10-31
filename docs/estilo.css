@@ -57,7 +57,7 @@ header {
   background-image: url("cabecera.jpg");
   background-position: center top;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   line-height: 1.2;
   max-width: none;
   padding: 10vw 2em;
