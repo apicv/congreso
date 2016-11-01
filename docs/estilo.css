@@ -47,12 +47,9 @@ body {
 
 /* 09 Images */
 
-body {
+body, header {
   margin: 0;
   padding: 0;
-}
-
-header {
   background-color: #263d36;
   background-image: url("fondo.png");
   background-position: center top;
