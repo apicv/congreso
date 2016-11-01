@@ -56,7 +56,7 @@ header {
   background-color: #263d36;
   background-image: url("cabecera.jpg");
   background-position: center top;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: contain;
   line-height: 1.2;
   max-width: none;
